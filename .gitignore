@@ -1,0 +1,5 @@
+__pycache__
+venv
+.antlr
+output.txt
+test.txt
